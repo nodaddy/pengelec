@@ -138,9 +138,9 @@ function App() {
           var interval = setInterval(()=>{
             counter ++;
             var elecPosition = Math.random()*500;
-            setNeenstaPosition(elecPosition);
+            setNeenstaPosition(elecPosition+50);
             setYodaPosition(600 - elecPosition);
-            if(counter > 12 && (elecPosition < 240 || elecPosition > 340)){
+            if(counter > 8 && (elecPosition < 240 || elecPosition > 340)){
               clearInterval(interval);
               setTimeout(() => {
                 if(elecPosition < (600 - elecPosition)){
