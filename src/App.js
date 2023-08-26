@@ -57,7 +57,7 @@ function App() {
           <br/>
 <br/>
           <br/>
-          <div align="left" style={{fontSize: '14px', borderRadius: '15px', padding: '20px 30px', boxShadow: '1px 1px 5px 2px silver', width: '70vw'}}>
+          <div align="left" style={{fontSize: '14px', borderRadius: '15px', padding: '20px 30px', boxShadow: '1px 1px 50px 2px silver', width: '70vw'}}>
             Hewwo! I'm Bree,
             <br/>
             <br/>
