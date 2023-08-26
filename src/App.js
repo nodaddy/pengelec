@@ -25,7 +25,7 @@ function App() {
           <br/>
 <br/>
           <br/>
-          <div align="left" style={{fontSize: '14px', borderRadius: '15px', padding: '20px 30px', boxShadow: '1px 1px 50px 2px silver', width: '70vw'}}>
+          <div align="left" style={{fontSize: '14px', borderRadius: '15px', padding: '20px 30px', boxShadow: '1px 1px 50px 2px rgb(220, 220, 220)', width: '70vw'}}>
             <h2><span style={{color: 'goldenrod'}}>{winner}</span> <br/><span style={{color: 'grey'}}>is the winner of the elections</span></h2>  
             <br/> 
             Untill next elections, {winner} will take charge of the Mighty Penguin Army and {winner}'s decisions will be paramount! Over and out.
@@ -57,7 +57,7 @@ function App() {
           <br/>
 <br/>
           <br/>
-          <div align="left" style={{fontSize: '14px', borderRadius: '15px', padding: '20px 30px', boxShadow: '1px 1px 50px 2px silver', width: '70vw'}}>
+          <div align="left" style={{fontSize: '14px', borderRadius: '15px', padding: '20px 30px', boxShadow: '1px 1px 50px 2px rgb(220, 220, 220)', width: '70vw'}}>
             Hewwo! I'm Bree,
             <br/>
             <br/>
