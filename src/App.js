@@ -13,8 +13,7 @@ function App() {
       width: '100vw',
       background: 'url(https://pbs.twi mg.com/media/Et-4wqeVoAAQYgz?format=jpg&name=4096x4096) no-repeat top',
       backgroundSize: 'cover'
-    }}>
-      {neenstaPosition} && {yodaPosition}
+    }}> 
       {
         winner && <div align="center">
            <br/>
